@@ -1,7 +1,7 @@
 # portfolio
 
 ## 181st Meeting of the Acoustical Society of America (2021)
-**Abstract: Multitalker speech perception in neurodiverse populations.**
+**Multitalker speech perception in neurodiverse populations.**
 Katherine A. Emmons (University of Washington Autism Center, University of Washington, 1701 NE Columbia Rd., Seattle, WA), Annette Estes (Department of Speech and Hearing Sciences, University of Washington, Seattle, WA), Stephen Dager (Department of Radiology, University of Washington, Seattle, WA), Ross K. Maddox (University of Rochester, Rochester, NY),
 Susan Astley Hemingway (Center on Human Development and Disability, University of Washington, Seattle, WA), John C. Thorne, Adrian KC Lee (Department of Speech and Hearing Sci., Univ. of Washington, Seattle, WA), and Bonnie K. Lau (Dept. of Otolaryngology-Head and Neck Surgery, University of Washington, Seattle, WA)
 
@@ -13,7 +13,7 @@ speech in multitalker situations, especially in neurodiverse populations.
 [Link to meeting program](https://acousticalsociety.org/wp-content/uploads/2022/01/Seattle_Program.pdf)
 
 ## International Society for Autism Research Annual Meeting (2021)
-**Abstract:  Multi-Talker Speech Perception Thresholds in Young Adults with Autism Spectrum Disorder**
+**Multi-Talker Speech Perception Thresholds in Young Adults with Autism Spectrum Disorder**
 K. A. Emmons(1), A. M. Estes(1), S. R. Dager(2), A. K. Lee(1) and B. K. Lau(3), 
 (1)Speech and Hearing Sciences, University of Washington, Seattle, WA, (2)Radiology, University of Washington, Seattle, WA, (3)Otolaryngology-Head and Neck Surgery, University of
 Washington, Seattle, WA
@@ -31,7 +31,7 @@ Conclusions: These results suggest young adults with ASD have the ability to use
 [Link to meeting program](https://cdn.ymaws.com/www.autism-insar.org/resource/resmgr/docs/annualmeeting/Abstract_Book_INSAR2021Virtu.pdf)
 
 ## International Society for Autism Research Annual Meeting (2020)
-**Abstract: Auditory Attention Switching Difficulty in Young Adults with Autism Spectrum Disorder**
+**Auditory Attention Switching Difficulty in Young Adults with Autism Spectrum Disorder**
 Background: Communication in everyday life depends crucially on the ability to dynamically switch attention between competing auditory streams. Many of us do so effortlessly, such as switching attention between different speakers at a party. Sensory processing difficulties, particularly in the auditory domain, are commonly reported by individuals with autism spectrum disorder (ASD). Past studies have shown various auditory processing de#cits in ASD, including difficulty listening under noisy conditions and impaired cross-modal attention switching; however, few studies have looked specifically at auditory attention deployment in ASD.
 
 Objectives: This study investigates individual differences in the ability to switch auditory attention in young adults with ASD and age- and sex-matched controls. We hypothesize that individuals with ASD will demonstrate di"culty switching auditory attention.
