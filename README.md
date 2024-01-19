@@ -11,6 +11,7 @@ speaker was always male; the two maskers were either male/male or female/female.
 speech in multitalker situations, especially in neurodiverse populations.
 
 [Link to meeting program](https://acousticalsociety.org/wp-content/uploads/2022/01/Seattle_Program.pdf)
+[Link to poster](Emmons_et_al_2021_ASA.pdf)
 
 ## International Society for Autism Research Annual Meeting (2021)
 **Multi-Talker Speech Perception Thresholds in Young Adults with Autism Spectrum Disorder**
@@ -29,6 +30,7 @@ Results: Overall, all participants were able to perform this multi-talker speech
 Conclusions: These results suggest young adults with ASD have the ability to use acoustic and binaural cues to listen successfully when multiple people are talking at the same time. However, as a group, adults with ASD in this sample required the person they were attending to be louder than competing voices. Understanding auditory processing differences in ASD may reveal new information about contributors to social and communication challenges. 
 
 [Link to meeting program](https://cdn.ymaws.com/www.autism-insar.org/resource/resmgr/docs/annualmeeting/Abstract_Book_INSAR2021Virtu.pdf)
+[Link to poster](Emmons_et_al_INSAR2021.pdf)
 
 ## International Society for Autism Research Annual Meeting (2020)
 **Auditory Attention Switching Difficulty in Young Adults with Autism Spectrum Disorder**
@@ -38,7 +40,9 @@ Objectives: This study investigates individual differences in the ability to swi
 
 Methods: Twenty-two participants aged 21 to 22 years (ASD n=11; TD n=11) were recruited from a larger longitudinal study conducted at the University of Washington Autism Center. All participants passed an audiometric screen of <= 20 dB hearing level at octave frequencies between 250 and 8000 Hz for inclusion in the study. The study paradigm consisted of presenting participants with two simultaneous auditory streams, each consisting of two compound words. On Switch Attention trials, participants were instructed to attend to the #rst speaker for the #rst word, then switch attention to the second speaker for the second word. On Hold Attention trials, participants were instructed to attend to the #rst speaker for both the #rst and second words. In each trial, the speakers were either both male, both female, or a male/female pair. Speakers’ sex was manipulated to make the task harder (male/male or female/female) or easier (male/female). Additionally, speakers were either co-located (both from the left or both from the right) or spatially separated (one from the left and one from the right). There were 8 blocks, each consisting of 24 trials, for a total of 192 trials per participant. The entire task lasted approximately 30 minutes and was performed while the participant was undergoing magnetoencephalography recording.
 
-Results: A two-way mixed ANOVA was conducted to investigate the effect of group and condition on task performance. There was a significant #cant main effect of group, F(1,20) = 15.45, p = 0.001, with the TD group performing better than the ASD group. One-way ANOVAs were conducted to investigate the effect of group on performance and showed a TD advantage across all conditions. The ASD group performed above chance on Maintain Attention trials, and on Switch Attention trials where speakers were a male/female pair and spatially separated. However, on Switch Attention trials where speakers were male/male or female/female or where their voices were co-located, the ASD group did not perform above chance.
+Results: A two-way mixed ANOVA was conducted to investigate the effect of group and condition on task performance. There was a significant main effect of group, F(1,20) = 15.45, p = 0.001, with the TD group performing better than the ASD group. One-way ANOVAs were conducted to investigate the effect of group on performance and showed a TD advantage across all conditions. The ASD group performed above chance on Maintain Attention trials, and on Switch Attention trials where speakers were a male/female pair and spatially separated. However, on Switch Attention trials where speakers were male/male or female/female or where their voices were co-located, the ASD group did not perform above chance.
 
 Conclusions: These results suggest that young adults with ASD can switch attention from one auditory stream to the other when speakers’ voices are a male/female pair and spatially separated, although less accurately than TD individuals. The ASD group showed greater difficulty switching attention from one stream to the other when speakers’ voices were both male or both female or were co-located.
+
+[Link to poster](Emmons_et_al_INSAR2020.pdf)
 
