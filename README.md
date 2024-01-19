@@ -11,7 +11,7 @@ speaker was always male; the two maskers were either male/male or female/female.
 speech in multitalker situations, especially in neurodiverse populations.
 
 [Link to meeting program](https://acousticalsociety.org/wp-content/uploads/2022/01/Seattle_Program.pdf)
-[Link to poster](/portfolio/Emmons_et_al_2021_ASA.pdf)
+![2022 ASA Poster](Emmons_et_al_2021_ASA.png)
 
 ## International Society for Autism Research Annual Meeting (2021)
 **Multi-Talker Speech Perception Thresholds in Young Adults with Autism Spectrum Disorder**
