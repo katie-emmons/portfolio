@@ -11,6 +11,7 @@ speaker was always male; the two maskers were either male/male or female/female.
 speech in multitalker situations, especially in neurodiverse populations.
 
 [Link to meeting program](https://acousticalsociety.org/wp-content/uploads/2022/01/Seattle_Program.pdf)
+
 ![2022 ASA Poster](Emmons_et_al_2021_ASA.png)
 
 ## International Society for Autism Research Annual Meeting (2021)
@@ -30,7 +31,8 @@ Results: Overall, all participants were able to perform this multi-talker speech
 Conclusions: These results suggest young adults with ASD have the ability to use acoustic and binaural cues to listen successfully when multiple people are talking at the same time. However, as a group, adults with ASD in this sample required the person they were attending to be louder than competing voices. Understanding auditory processing differences in ASD may reveal new information about contributors to social and communication challenges. 
 
 [Link to meeting program](https://cdn.ymaws.com/www.autism-insar.org/resource/resmgr/docs/annualmeeting/Abstract_Book_INSAR2021Virtu.pdf)
-[Link to poster](/portfolio/Emmons_et_al_INSAR2021.pdf)
+
+![2021 INSAR Poster](Emmons_et_al_INSAR2021.png)
 
 ## International Society for Autism Research Annual Meeting (2020)
 **Auditory Attention Switching Difficulty in Young Adults with Autism Spectrum Disorder**
@@ -44,5 +46,4 @@ Results: A two-way mixed ANOVA was conducted to investigate the effect of group 
 
 Conclusions: These results suggest that young adults with ASD can switch attention from one auditory stream to the other when speakers’ voices are a male/female pair and spatially separated, although less accurately than TD individuals. The ASD group showed greater difficulty switching attention from one stream to the other when speakers’ voices were both male or both female or were co-located.
 
-[Link to poster](portfolio/Emmons_et_al_INSAR2020.pdf)
-
+![2020 INSAR Poster](Emmons_et_al_INSAR2020.png)
