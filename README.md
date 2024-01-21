@@ -2,13 +2,13 @@
 
 ## 181st Meeting of the Acoustical Society of America (2021)
 **Multitalker speech perception in neurodiverse populations.**
-Katherine A. Emmons (1) (University of Washington Autism Center, University of Washington, 1701 NE Columbia Rd., Seattle, WA), Annette Estes (Department of Speech and Hearing Sciences, University of Washington, Seattle, WA), Stephen Dager (Department of Radiology, University of Washington, Seattle, WA), Ross K. Maddox (University of Rochester, Rochester, NY),
-Susan Astley Hemingway (Center on Human Development and Disability, University of Washington, Seattle, WA), John C. Thorne, Adrian KC Lee (Department of Speech and Hearing Sci., Univ. of Washington, Seattle, WA), and Bonnie K. Lau (Dept. of Otolaryngology-Head and Neck Surgery, University of Washington, Seattle, WA)
+
+Katherine A. Emmons (1), Annette Estes (2), Stephen Dager (3), Ross K. Maddox (4), Susan Astley Hemingway (5), John C. Thorne, Adrian KC Lee (2), Bonnie K. Lau (6)
+
+(1) University of Washington Autism Center, University of Washington, 1701 NE Columbia Rd., Seattle, WA, (2) Department of Speech and Hearing Sciences, University of Washington, Seattle, WA), (3) Department of Radiology, University of Washington, Seattle, WA), (4) University of Rochester, Rochester, NY),(5) Center on Human Development and Disability, University of Washington, Seattle, WA), (6) Dept. of Otolaryngology-Head and Neck Surgery, University of Washington, Seattle, WA)
 
 The ability to selectively attend to one talker in the presence of competing talkers is a crucial skill employed in everyday life. In this study, multitalker speech perception thresholds were measured in three groups; Autism Spectrum Disorder (ASD), Fetal Alcohol Syndrome Disorder (FASD), and an age- and sex-matched typically functioning (TF) group. Participants listened to three simultaneous sentences from the Coordinate Response Measure corpus: the target stream to be attended (0° azimuth) and two spatially
-separated (45° azimuth) masker streams. Participants were asked to identify the color and number associated with the callsign “Charlie.” Target-to-masker ratios (TMRs) were estimated based on the average of four runs in which the target was fixed at 40 dB SPL and maskers were adaptively varied using a one-up-one-down procedure to estimate 50% correct. The target
-speaker was always male; the two maskers were either male/male or female/female. Overall, TMR thresholds were higher in both ASD and FASD groups than the TF group. Additionally, a negative correlation between intellectual ability and TMR thresholds was observed. These preliminary results suggest intellectual ability may impact how well listeners perceive
-speech in multitalker situations, especially in neurodiverse populations.
+separated (45° azimuth) masker streams. Participants were asked to identify the color and number associated with the callsign “Charlie.” Target-to-masker ratios (TMRs) were estimated based on the average of four runs in which the target was fixed at 40 dB SPL and maskers were adaptively varied using a one-up-one-down procedure to estimate 50% correct. The target speaker was always male; the two maskers were either male/male or female/female. Overall, TMR thresholds were higher in both ASD and FASD groups than the TF group. Additionally, a negative correlation between intellectual ability and TMR thresholds was observed. These preliminary results suggest intellectual ability may impact how well listeners perceive speech in multitalker situations, especially in neurodiverse populations.
 
 [Link to meeting program](https://acousticalsociety.org/wp-content/uploads/2022/01/Seattle_Program.pdf)
 
@@ -16,8 +16,9 @@ speech in multitalker situations, especially in neurodiverse populations.
 
 ## International Society for Autism Research Annual Meeting (2021)
 **Multi-Talker Speech Perception Thresholds in Young Adults with Autism Spectrum Disorder**
-K. A. Emmons(1), A. M. Estes(1), S. R. Dager(2), A. K. Lee(1) and B. K. Lau(3)
-(1)Speech and Hearing Sciences, University of Washington, Seattle, WA, (2)Radiology, University of Washington, Seattle, WA, (3)Otolaryngology-Head and Neck Surgery, University of
+K. A. Emmons (1), A. M. Estes (1), S. R. Dager (2), A. K. Lee (1), B. K. Lau (3)
+
+(1) Speech and Hearing Sciences, University of Washington, Seattle, WA, (2) Radiology, University of Washington, Seattle, WA, (3) Otolaryngology-Head and Neck Surgery, University of
 Washington, Seattle, WA
 
 Background: When multiple people are talking at the same time, referred to as multi-talker situations, listeners must segregate competing voices into distinct auditory streams. Acoustic cues such as pitch and loudness as well as binaural cues stemming from differences between the two ears can aid segregation. Prior research suggests neurotypical listeners can use acoustic and binaural cues to selectively attend to the desired talker even when competing voices are louder. Auditory processing differences, including difficulty listening under noisy conditions, have been reported in individuals with autism spectrum disorder (ASD). Despite these reported challenges, few studies have investigated multi-talker speech perception in individuals with ASD.
@@ -37,7 +38,8 @@ Conclusions: These results suggest young adults with ASD have the ability to use
 ## International Society for Autism Research Annual Meeting (2020)
 **Auditory Attention Switching Difficulty in Young Adults with Autism Spectrum Disorder** 
 Katherine Emmons (1,2), Bonnie K. Lau (2), Eric Larson (2), Stephen Dager (3), Annette Estes (1,4), Adrian KC Lee (2,4)
-(1)University of Washington Autism Center, (2)Institute for Learning and Brain Sciences, (3) Department of Radiology, (4)Department of Speech and Hearing Sciences, University of Washington, Seattle, WA.
+
+(1) University of Washington Autism Center,(2) Institute for Learning and Brain Sciences, (3) Department of Radiology, (4) Department of Speech and Hearing Sciences, University of Washington, Seattle, WA.
 
 Background: Communication in everyday life depends crucially on the ability to dynamically switch attention between competing auditory streams. Many of us do so effortlessly, such as switching attention between different speakers at a party. Sensory processing difficulties, particularly in the auditory domain, are commonly reported by individuals with autism spectrum disorder (ASD). Past studies have shown various auditory processing de#cits in ASD, including difficulty listening under noisy conditions and impaired cross-modal attention switching; however, few studies have looked specifically at auditory attention deployment in ASD.
 
