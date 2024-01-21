@@ -16,6 +16,7 @@ separated (45° azimuth) masker streams. Participants were asked to identify the
 
 ## International Society for Autism Research Annual Meeting (2021)
 **Multi-Talker Speech Perception Thresholds in Young Adults with Autism Spectrum Disorder**
+
 K. A. Emmons (1), A. M. Estes (1), S. R. Dager (2), A. K. Lee (1), B. K. Lau (3)
 
 (1) Speech and Hearing Sciences, University of Washington, Seattle, WA, (2) Radiology, University of Washington, Seattle, WA, (3) Otolaryngology-Head and Neck Surgery, University of
@@ -37,6 +38,7 @@ Conclusions: These results suggest young adults with ASD have the ability to use
 
 ## International Society for Autism Research Annual Meeting (2020)
 **Auditory Attention Switching Difficulty in Young Adults with Autism Spectrum Disorder** 
+
 Katherine Emmons (1,2), Bonnie K. Lau (2), Eric Larson (2), Stephen Dager (3), Annette Estes (1,4), Adrian KC Lee (2,4)
 
 (1) University of Washington Autism Center,(2) Institute for Learning and Brain Sciences, (3) Department of Radiology, (4) Department of Speech and Hearing Sciences, University of Washington, Seattle, WA.
